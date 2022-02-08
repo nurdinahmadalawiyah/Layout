@@ -20,4 +20,7 @@
     <string name="seller">Dijual oleh</string>
     <string name="my_name">Nurdin A. Alawiyah</string>
     <string name="buy">Beli</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
 </resources>
